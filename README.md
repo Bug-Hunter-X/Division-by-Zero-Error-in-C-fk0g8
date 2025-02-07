@@ -1,0 +1,3 @@
+# Division by Zero Error in C
+
+This repository demonstrates a common programming error in C: division by zero. The `bug.c` file contains the erroneous code, while `bugSolution.c` provides a corrected version.  The error occurs when attempting to divide an integer by zero, resulting in undefined behavior and often a program crash.  The solution involves adding checks to prevent division by zero. This is crucial for robust and reliable code.
